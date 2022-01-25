@@ -26,6 +26,7 @@ img:hover{
 .general{
     text-align: justify;
     padding: 20px;
+    padding-bottom: 40px;
 }
 h2:hover{
     display: inline-block;
